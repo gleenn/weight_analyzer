@@ -2,6 +2,11 @@
 
 generated using Luminus version "3.55"
 
+Production domain: weightanalyzer.gleenn.com
+TOS: weightanalyzer.gleenn.com/tos
+Privacy Policy: weightanalyzer.gleenn.com/pp
+Oauth callback url: weightanalyzer.gleenn.com/oauth/callback
+
 FIXME
 
 ## Prerequisites
